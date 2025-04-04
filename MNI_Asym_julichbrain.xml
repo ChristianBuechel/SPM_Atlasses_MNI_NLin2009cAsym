@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<atlas version="2.0">
+	<header>
+		<name>MNI_Asym_julichbrain</name>
+		<version>1.0</version>
+		<description>MNI_Asym_julichbrain</description>
+		<url></url>
+		<licence></licence>
+		<coordinate_system>MNI</coordinate_system>
+		<type>Label</type>
+		<images>
+			<imagefile>MNI_Asym_julichbrain.nii</imagefile>
+		</images>
+	</header>
+	<data>
+		<label><index>1</index><name>Left Area TE 1.1 (HESCHL) </name></label>
+		<label><index>2</index><name>Right Area TE 1.1 (HESCHL) </name></label>
+		<label><index>3</index><name>Left Area 3b (PostCG) </name></label>
+		<label><index>4</index><name>Right Area 3b (PostCG) </name></label>
+		<label><index>5</index><name>Left HC-Presubiculum (Hippocampus) </name></label>
+		<label><index>6</index><name>Right HC-Presubiculum (Hippocampus) </name></label>
+		<label><index>7</index><name>Left Area hOc4la (LOC) </name></label>
+		<label><index>8</index><name>Right Area PF (IPL) </name></label>
+		<label><index>9</index><name>Left Area PF (IPL) </name></label>
+		<label><index>10</index><name>Right Area hOc4la (LOC) </name></label>
+		<label><index>11</index><name>Left Area hOc2 (V2, 18) </name></label>
+		<label><index>12</index><name>Right Area hOc2 (V2, 18) </name></label>
+		<label><index>13</index><name>Left Area 6d2 (PreCG) </name></label>
+		<label><index>14</index><name>Right Area 6d2 (PreCG) </name></label>
+		<label><index>15</index><name>Left Area Ig3 (Insula) </name></label>
+		<label><index>16</index><name>Right Area Ig3 (Insula) </name></label>
+		<label><index>17</index><name>Left Area hOc4d (Cuneus) </name></label>
+		<label><index>18</index><name>Right Area hOc4d (Cuneus) </name></label>
+		<label><index>19</index><name>Left Area Fo4 (OFC) </name></label>
+		<label><index>20</index><name>Right Area Fo4 (OFC) </name></label>
+		<label><index>21</index><name>Left Area OP4 (POperc) </name></label>
+		<label><index>22</index><name>Right Area OP4 (POperc) </name></label>
+		<label><index>23</index><name>Left Area 1 (PostCG) </name></label>
+		<label><index>24</index><name>Right Area 1 (PostCG) </name></label>
+		<label><index>25</index><name>Left Ch 4 (Basal Forebrain) </name></label>
+		<label><index>26</index><name>Right Ch 4 (Basal Forebrain) </name></label>
+		<label><index>27</index><name>Left Frontal-I (GapMap) </name></label>
+		<label><index>28</index><name>Right Frontal-I (GapMap) </name></label>
+		<label><index>29</index><name>Left Area hPO1 (POS) </name></label>
+		<label><index>30</index><name>Right Area hPO1 (POS) </name></label>
+		<label><index>31</index><name>Left Dorsal Dentate Nucleus (Cerebellum) </name></label>
+		<label><index>32</index><name>Right Area OP2 (POperc) </name></label>
+		<label><index>33</index><name>Left Area OP2 (POperc) </name></label>
+		<label><index>34</index><name>Right Area TE 1.0 (HESCHL) </name></label>
+		<label><index>35</index><name>Left Area TE 1.0 (HESCHL) </name></label>
+		<label><index>36</index><name>Right Dorsal Dentate Nucleus (Cerebellum) </name></label>
+		<label><index>37</index><name>Left Area STS2 (STS) </name></label>
+		<label><index>38</index><name>Right Area STS2 (STS) </name></label>
+		<label><index>39</index><name>Left Area Id3 (Insula) </name></label>
+		<label><index>40</index><name>Right Area Id3 (Insula) </name></label>
+		<label><index>41</index><name>Left Area 6mp (SMA, mesial SFG) </name></label>
+		<label><index>42</index><name>Right Area 6mp (SMA, mesial SFG) </name></label>
+		<label><index>43</index><name>Left DG (Hippocampus) </name></label>
+		<label><index>44</index><name>Right DG (Hippocampus) </name></label>
+		<label><index>45</index><name>Left Area PGp (IPL) </name></label>
+		<label><index>46</index><name>Right Area PGp (IPL) </name></label>
+		<label><index>47</index><name>Left Area Ig1 (Insula) </name></label>
+		<label><index>48</index><name>Right Area Ig1 (Insula) </name></label>
+		<label><index>49</index><name>Left Area 6ma (preSMA, mesial SFG) </name></label>
+		<label><index>50</index><name>Right Area 6ma (preSMA, mesial SFG) </name></label>
+		<label><index>51</index><name>Left Area TI (STG) </name></label>
+		<label><index>52</index><name>Right Area TI (STG) </name></label>
+		<label><index>53</index><name>Left Area PFt (IPL) </name></label>
+		<label><index>54</index><name>Right Area p24ab (pACC) </name></label>
+		<label><index>55</index><name>Left Area p24ab (pACC) </name></label>
+		<label><index>56</index><name>Right Area PFt (IPL) </name></label>
+		<label><index>57</index><name>Left Area p24c (pACC) </name></label>
+		<label><index>58</index><name>Right Area p24c (pACC) </name></label>
+		<label><index>59</index><name>Left Area hOc3v (LingG) </name></label>
+		<label><index>60</index><name>Right Area hOc3v (LingG) </name></label>
+		<label><index>61</index><name>Left Area TE 3 (STG) </name></label>
+		<label><index>62</index><name>Right Area TE 3 (STG) </name></label>
+		<label><index>63</index><name>Left Frontal-to-Occipital (GapMap) </name></label>
+		<label><index>64</index><name>Right Area PFcm (IPL) </name></label>
+		<label><index>65</index><name>Left Area PFcm (IPL) </name></label>
+		<label><index>66</index><name>Right Frontal-to-Occipital (GapMap) </name></label>
+		<label><index>67</index><name>Left Area hIP5 (IPS) </name></label>
+		<label><index>68</index><name>Right Area hIP5 (IPS) </name></label>
+		<label><index>69</index><name>Left Area 7P (SPL) </name></label>
+		<label><index>70</index><name>Right Area 7P (SPL) </name></label>
+		<label><index>71</index><name>Left Area 6d1 (PreCG) </name></label>
+		<label><index>72</index><name>Right Area 6d1 (PreCG) </name></label>
+		<label><index>73</index><name>Left Area FG1 (FusG) </name></label>
+		<label><index>74</index><name>Right Area FG1 (FusG) </name></label>
+		<label><index>75</index><name>Left Area hIP4 (IPS) </name></label>
+		<label><index>76</index><name>Right Area hIP4 (IPS) </name></label>
+		<label><index>77</index><name>Left Area OP6 (Frontal Operculum) </name></label>
+		<label><index>78</index><name>Right Area OP6 (Frontal Operculum) </name></label>
+		<label><index>79</index><name>Left Area FG2 (FusG) </name></label>
+		<label><index>80</index><name>Right Area FG2 (FusG) </name></label>
+		<label><index>81</index><name>Left Area hIP6 (IPS) </name></label>
+		<label><index>82</index><name>Right Area hIP6 (IPS) </name></label>
+		<label><index>83</index><name>Left Area hIP3 (IPS) </name></label>
+		<label><index>84</index><name>Right Area hIP3 (IPS) </name></label>
+		<label><index>85</index><name>Left Area Fo5 (OFC) </name></label>
+		<label><index>86</index><name>Right Area Fo5 (OFC) </name></label>
+		<label><index>87</index><name>Left CM (Amygdala) </name></label>
+		<label><index>88</index><name>Right CM (Amygdala) </name></label>
+		<label><index>89</index><name>Left Area OP7 (Frontal Operculum) </name></label>
+		<label><index>90</index><name>Right Area OP7 (Frontal Operculum) </name></label>
+		<label><index>91</index><name>Left Area 4p (PreCG) </name></label>
+		<label><index>92</index><name>Right Area 4p (PreCG) </name></label>
+		<label><index>93</index><name>Left Area 33 (ACC) </name></label>
+		<label><index>94</index><name>Right Area 33 (ACC) </name></label>
+		<label><index>95</index><name>Left Area hOc6 (POS) </name></label>
+		<label><index>96</index><name>Right HC-Prosubiculum (Hippocampus) </name></label>
+		<label><index>97</index><name>Left HC-Prosubiculum (Hippocampus) </name></label>
+		<label><index>98</index><name>Right Area hOc6 (POS) </name></label>
+		<label><index>99</index><name>Left Area Ig2 (Insula) </name></label>
+		<label><index>100</index><name>Right Area Ig2 (Insula) </name></label>
+		<label><index>101</index><name>Left CA2 (Hippocampus) </name></label>
+		<label><index>102</index><name>Right CA2 (Hippocampus) </name></label>
+		<label><index>103</index><name>Left Area Fp2 (FPole) </name></label>
+		<label><index>104</index><name>Right Area Fp2 (FPole) </name></label>
+		<label><index>105</index><name>Left Entorhinal Cortex </name></label>
+		<label><index>106</index><name>Right Entorhinal Cortex </name></label>
+		<label><index>107</index><name>Left Area Id4 (Insula) </name></label>
+		<label><index>108</index><name>Right Area Id2 (Insula) </name></label>
+		<label><index>109</index><name>Left Area Id2 (Insula) </name></label>
+		<label><index>110</index><name>Right Area Id4 (Insula) </name></label>
+		<label><index>111</index><name>Left CA1 (Hippocampus) </name></label>
+		<label><index>112</index><name>Right Area OP1 (POperc) </name></label>
+		<label><index>113</index><name>Left Area OP1 (POperc) </name></label>
+		<label><index>114</index><name>Right CA1 (Hippocampus) </name></label>
+		<label><index>115</index><name>Left Area Id6 (Insula) </name></label>
+		<label><index>116</index><name>Right Area Id6 (Insula) </name></label>
+		<label><index>117</index><name>Left Area hIP8 (IPS) </name></label>
+		<label><index>118</index><name>Right HC-Parasubiculum (Hippocampus) </name></label>
+		<label><index>119</index><name>Left HC-Parasubiculum (Hippocampus) </name></label>
+		<label><index>120</index><name>Right Area hIP8 (IPS) </name></label>
+		<label><index>121</index><name>Left IF (Amygdala) </name></label>
+		<label><index>122</index><name>Right IF (Amygdala) </name></label>
+		<label><index>123</index><name>Left Area OP9 (Frontal Operculum) </name></label>
+		<label><index>124</index><name>Right Area OP9 (Frontal Operculum) </name></label>
+		<label><index>125</index><name>Left HC-Subiculum (Hippocampus) </name></label>
+		<label><index>126</index><name>Right HC-Subiculum (Hippocampus) </name></label>
+		<label><index>127</index><name>Left Temporal-to-Parietal (GapMap) </name></label>
+		<label><index>128</index><name>Right Temporal-to-Parietal (GapMap) </name></label>
+		<label><index>129</index><name>Left Area 6d3 (SFS) </name></label>
+		<label><index>130</index><name>Right Ventral Dentate Nucleus (Cerebellum) </name></label>
+		<label><index>131</index><name>Left Ventral Dentate Nucleus (Cerebellum) </name></label>
+		<label><index>132</index><name>Right Area 6d3 (SFS) </name></label>
+		<label><index>133</index><name>Left HATA (Hippocampus) </name></label>
+		<label><index>134</index><name>Right HATA (Hippocampus) </name></label>
+		<label><index>135</index><name>Left Area hIP2 (IPS) </name></label>
+		<label><index>136</index><name>Right Area hIP2 (IPS) </name></label>
+		<label><index>137</index><name>Left Area 44 (IFG) </name></label>
+		<label><index>138</index><name>Right Area 44 (IFG) </name></label>
+		<label><index>139</index><name>Left Area Fo7 (OFC) </name></label>
+		<label><index>140</index><name>Right Area Fo7 (OFC) </name></label>
+		<label><index>141</index><name>Left Area 45 (IFG) </name></label>
+		<label><index>142</index><name>Right Area 45 (IFG) </name></label>
+		<label><index>143</index><name>Left Area Id1 (Insula) </name></label>
+		<label><index>144</index><name>Right Area Id1 (Insula) </name></label>
+		<label><index>145</index><name>Left Area 5Ci (SPL) </name></label>
+		<label><index>146</index><name>Right Area 5Ci (SPL) </name></label>
+		<label><index>147</index><name>Left Area Id5 (Insula) </name></label>
+		<label><index>148</index><name>Right Area TE 1.2 (HESCHL) </name></label>
+		<label><index>149</index><name>Left Area TE 1.2 (HESCHL) </name></label>
+		<label><index>150</index><name>Right Area Id5 (Insula) </name></label>
+		<label><index>151</index><name>Left Area PGa (IPL) </name></label>
+		<label><index>152</index><name>Right Area PGa (IPL) </name></label>
+		<label><index>153</index><name>Left Area hIP1 (IPS) </name></label>
+		<label><index>154</index><name>Right Area hIP1 (IPS) </name></label>
+		<label><index>155</index><name>Left Area 2 (PostCS) </name></label>
+		<label><index>156</index><name>Right Area 2 (PostCS) </name></label>
+		<label><index>157</index><name>Left Ch 123 (Basal Forebrain) </name></label>
+		<label><index>158</index><name>Right Ch 123 (Basal Forebrain) </name></label>
+		<label><index>159</index><name>Left Area TE 2.1 (STG) </name></label>
+		<label><index>160</index><name>Right Area TE 2.1 (STG) </name></label>
+		<label><index>161</index><name>Left Area Ia (Insula) </name></label>
+		<label><index>162</index><name>Right Area Ia (Insula) </name></label>
+		<label><index>163</index><name>Left Area hOc3d (Cuneus) </name></label>
+		<label><index>164</index><name>Right Area hOc3d (Cuneus) </name></label>
+		<label><index>165</index><name>Left VTM (Amygdala) </name></label>
+		<label><index>166</index><name>Right VTM (Amygdala) </name></label>
+		<label><index>167</index><name>Left Area OP3 (POperc) </name></label>
+		<label><index>168</index><name>Right Area OP3 (POperc) </name></label>
+		<label><index>169</index><name>Left Area 7A (SPL) </name></label>
+		<label><index>170</index><name>Right Area 7A (SPL) </name></label>
+		<label><index>171</index><name>Left Area OP8 (Frontal Operculum) </name></label>
+		<label><index>172</index><name>Right Area OP8 (Frontal Operculum) </name></label>
+		<label><index>173</index><name>Left HC-Transsubiculum (Hippocampus) </name></label>
+		<label><index>174</index><name>Right HC-Transsubiculum (Hippocampus) </name></label>
+		<label><index>175</index><name>Left Area 25 (sACC) </name></label>
+		<label><index>176</index><name>Right Area 7M (SPL) </name></label>
+		<label><index>177</index><name>Left Area 7M (SPL) </name></label>
+		<label><index>178</index><name>Right Area 25 (sACC) </name></label>
+		<label><index>179</index><name>Left Area OP5 (Frontal Operculum) </name></label>
+		<label><index>180</index><name>Right Area OP5 (Frontal Operculum) </name></label>
+		<label><index>181</index><name>Left CA3 (Hippocampus) </name></label>
+		<label><index>182</index><name>Right Area PFm (IPL) </name></label>
+		<label><index>183</index><name>Left Area PFm (IPL) </name></label>
+		<label><index>184</index><name>Right CA3 (Hippocampus) </name></label>
+		<label><index>185</index><name>Left Frontal-II (GapMap) </name></label>
+		<label><index>186</index><name>Right Frontal-II (GapMap) </name></label>
+		<label><index>187</index><name>Left LB (Amygdala) </name></label>
+		<label><index>188</index><name>Right LB (Amygdala) </name></label>
+		<label><index>189</index><name>Left Area 4a (PreCG) </name></label>
+		<label><index>190</index><name>Right Area STS1 (STS) </name></label>
+		<label><index>191</index><name>Left Area STS1 (STS) </name></label>
+		<label><index>192</index><name>Right Area 4a (PreCG) </name></label>
+		<label><index>193</index><name>Left Area 5L (SPL) </name></label>
+		<label><index>194</index><name>Right Area 5L (SPL) </name></label>
+		<label><index>195</index><name>Left Area 5M (SPL) </name></label>
+		<label><index>196</index><name>Right Area 5M (SPL) </name></label>
+		<label><index>197</index><name>Left Frontal-to-Temporal (GapMap) </name></label>
+		<label><index>198</index><name>Right Area FG3 (FusG) </name></label>
+		<label><index>199</index><name>Left Area FG3 (FusG) </name></label>
+		<label><index>200</index><name>Right Frontal-to-Temporal (GapMap) </name></label>
+		<label><index>201</index><name>Left Area Fp1 (FPole) </name></label>
+		<label><index>202</index><name>Right Area Fp1 (FPole) </name></label>
+		<label><index>203</index><name>Left Fastigial Nucleus (Cerebellum) </name></label>
+		<label><index>204</index><name>Right Fastigial Nucleus (Cerebellum) </name></label>
+		<label><index>205</index><name>Left Area s32 (sACC) </name></label>
+		<label><index>206</index><name>Right Area s32 (sACC) </name></label>
+		<label><index>207</index><name>Left MF (Amygdala) </name></label>
+		<label><index>208</index><name>Right MF (Amygdala) </name></label>
+		<label><index>209</index><name>Left Area 3a (PostCG) </name></label>
+		<label><index>210</index><name>Right Area 3a (PostCG) </name></label>
+		<label><index>211</index><name>Left Area hOc5 (LOC) </name></label>
+		<label><index>212</index><name>Right Area Id7 (Insula) </name></label>
+		<label><index>213</index><name>Left Area Id7 (Insula) </name></label>
+		<label><index>214</index><name>Right Area hOc5 (LOC) </name></label>
+		<label><index>215</index><name>Left Area FG4 (FusG) </name></label>
+		<label><index>216</index><name>Right Area FG4 (FusG) </name></label>
+		<label><index>217</index><name>Left Interposed Nucleus (Cerebellum) </name></label>
+		<label><index>218</index><name>Right Interposed Nucleus (Cerebellum) </name></label>
+		<label><index>219</index><name>Left Area Fo1 (OFC) </name></label>
+		<label><index>220</index><name>Right SF (Amygdala) </name></label>
+		<label><index>221</index><name>Left SF (Amygdala) </name></label>
+		<label><index>222</index><name>Right Area Fo1 (OFC) </name></label>
+		<label><index>223</index><name>Left Area s24 (sACC) </name></label>
+		<label><index>224</index><name>Right Area s24 (sACC) </name></label>
+		<label><index>225</index><name>Left Area Fo6 (OFC) </name></label>
+		<label><index>226</index><name>Right Area Fo6 (OFC) </name></label>
+		<label><index>227</index><name>Left Area hOc4v (LingG) </name></label>
+		<label><index>228</index><name>Right Area PFop (IPL) </name></label>
+		<label><index>229</index><name>Left Area PFop (IPL) </name></label>
+		<label><index>230</index><name>Right Area hOc4v (LingG) </name></label>
+		<label><index>231</index><name>Left Area p32 (pACC) </name></label>
+		<label><index>232</index><name>Right Area p32 (pACC) </name></label>
+		<label><index>233</index><name>Left Area hOc1 (V1, 17, CalcS) </name></label>
+		<label><index>234</index><name>Right Area hOc1 (V1, 17, CalcS) </name></label>
+		<label><index>235</index><name>Left Area Fo2 (OFC) </name></label>
+		<label><index>236</index><name>Right Area Fo2 (OFC) </name></label>
+		<label><index>237</index><name>Left Area hIP7 (IPS) </name></label>
+		<label><index>238</index><name>Right Area hIP7 (IPS) </name></label>
+		<label><index>239</index><name>Left Area TE 2.2 (STG) </name></label>
+		<label><index>240</index><name>Right Area TE 2.2 (STG) </name></label>
+		<label><index>241</index><name>Left Area 7PC (SPL) </name></label>
+		<label><index>242</index><name>Right Area 7PC (SPL) </name></label>
+		<label><index>243</index><name>Left Area hOc4lp (LOC) </name></label>
+		<label><index>244</index><name>Right Area hOc4lp (LOC) </name></label>
+		<label><index>245</index><name>Left Area TeI (STG) </name></label>
+		<label><index>246</index><name>Right Area Fo3 (OFC) </name></label>
+		<label><index>247</index><name>Left Area Fo3 (OFC) </name></label>
+		<label><index>248</index><name>Right Area TeI (STG) </name></label>
+	</data>
+</atlas>

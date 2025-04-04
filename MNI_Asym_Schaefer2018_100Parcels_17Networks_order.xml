@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<atlas version="2.0">
+	<header>
+		<name>MNI_Asym_Schaefer2018_100Parcels_17Networks_order</name>
+		<version>1.0</version>
+		<description>MNI_Asym_Schaefer2018_100Parcels_17Networks_order</description>
+		<url></url>
+		<licence></licence>
+		<coordinate_system>MNI</coordinate_system>
+		<type>Label</type>
+		<images>
+			<imagefile>MNI_Asym_Schaefer2018_100Parcels_17Networks_order.nii</imagefile>
+		</images>
+	</header>
+	<data>
+		<label><index>1</index><name>17Networks_LH_VisCent_ExStr_1 </name></label>
+		<label><index>2</index><name>17Networks_LH_VisCent_ExStr_2 </name></label>
+		<label><index>3</index><name>17Networks_LH_VisCent_Striate_1 </name></label>
+		<label><index>4</index><name>17Networks_LH_VisCent_ExStr_3 </name></label>
+		<label><index>5</index><name>17Networks_LH_VisPeri_ExStrInf_1 </name></label>
+		<label><index>6</index><name>17Networks_LH_VisPeri_StriCal_1 </name></label>
+		<label><index>7</index><name>17Networks_LH_VisPeri_ExStrSup_1 </name></label>
+		<label><index>8</index><name>17Networks_LH_SomMotA_1 </name></label>
+		<label><index>9</index><name>17Networks_LH_SomMotA_2 </name></label>
+		<label><index>10</index><name>17Networks_LH_SomMotB_Aud_1 </name></label>
+		<label><index>11</index><name>17Networks_LH_SomMotB_S2_1 </name></label>
+		<label><index>12</index><name>17Networks_LH_SomMotB_S2_2 </name></label>
+		<label><index>13</index><name>17Networks_LH_SomMotB_Cent_1 </name></label>
+		<label><index>14</index><name>17Networks_LH_DorsAttnA_TempOcc_1 </name></label>
+		<label><index>15</index><name>17Networks_LH_DorsAttnA_ParOcc_1 </name></label>
+		<label><index>16</index><name>17Networks_LH_DorsAttnA_SPL_1 </name></label>
+		<label><index>17</index><name>17Networks_LH_DorsAttnB_PostC_1 </name></label>
+		<label><index>18</index><name>17Networks_LH_DorsAttnB_PostC_2 </name></label>
+		<label><index>19</index><name>17Networks_LH_DorsAttnB_PostC_3 </name></label>
+		<label><index>20</index><name>17Networks_LH_DorsAttnB_FEF_1 </name></label>
+		<label><index>21</index><name>17Networks_LH_SalVentAttnA_ParOper_1 </name></label>
+		<label><index>22</index><name>17Networks_LH_SalVentAttnA_Ins_1 </name></label>
+		<label><index>23</index><name>17Networks_LH_SalVentAttnA_Ins_2 </name></label>
+		<label><index>24</index><name>17Networks_LH_SalVentAttnA_ParMed_1 </name></label>
+		<label><index>25</index><name>17Networks_LH_SalVentAttnA_FrMed_1 </name></label>
+		<label><index>26</index><name>17Networks_LH_SalVentAttnB_PFCl_1 </name></label>
+		<label><index>27</index><name>17Networks_LH_SalVentAttnB_PFCmp_1 </name></label>
+		<label><index>28</index><name>17Networks_LH_LimbicB_OFC_1 </name></label>
+		<label><index>29</index><name>17Networks_LH_LimbicA_TempPole_1 </name></label>
+		<label><index>30</index><name>17Networks_LH_LimbicA_TempPole_2 </name></label>
+		<label><index>31</index><name>17Networks_LH_ContA_IPS_1 </name></label>
+		<label><index>32</index><name>17Networks_LH_ContA_PFCl_1 </name></label>
+		<label><index>33</index><name>17Networks_LH_ContA_PFCl_2 </name></label>
+		<label><index>34</index><name>17Networks_LH_ContB_PFClv_1 </name></label>
+		<label><index>35</index><name>17Networks_LH_ContC_pCun_1 </name></label>
+		<label><index>36</index><name>17Networks_LH_ContC_pCun_2 </name></label>
+		<label><index>37</index><name>17Networks_LH_ContC_Cingp_1 </name></label>
+		<label><index>38</index><name>17Networks_LH_DefaultA_PFCd_1 </name></label>
+		<label><index>39</index><name>17Networks_LH_DefaultA_pCunPCC_1 </name></label>
+		<label><index>40</index><name>17Networks_LH_DefaultA_PFCm_1 </name></label>
+		<label><index>41</index><name>17Networks_LH_DefaultB_Temp_1 </name></label>
+		<label><index>42</index><name>17Networks_LH_DefaultB_Temp_2 </name></label>
+		<label><index>43</index><name>17Networks_LH_DefaultB_IPL_1 </name></label>
+		<label><index>44</index><name>17Networks_LH_DefaultB_PFCd_1 </name></label>
+		<label><index>45</index><name>17Networks_LH_DefaultB_PFCl_1 </name></label>
+		<label><index>46</index><name>17Networks_LH_DefaultB_PFCv_1 </name></label>
+		<label><index>47</index><name>17Networks_LH_DefaultB_PFCv_2 </name></label>
+		<label><index>48</index><name>17Networks_LH_DefaultC_Rsp_1 </name></label>
+		<label><index>49</index><name>17Networks_LH_DefaultC_PHC_1 </name></label>
+		<label><index>50</index><name>17Networks_LH_TempPar_1 </name></label>
+		<label><index>51</index><name>17Networks_RH_VisCent_ExStr_1 </name></label>
+		<label><index>52</index><name>17Networks_RH_VisCent_ExStr_2 </name></label>
+		<label><index>53</index><name>17Networks_RH_VisCent_ExStr_3 </name></label>
+		<label><index>54</index><name>17Networks_RH_VisPeri_StriCal_1 </name></label>
+		<label><index>55</index><name>17Networks_RH_VisPeri_ExStrInf_1 </name></label>
+		<label><index>56</index><name>17Networks_RH_VisPeri_ExStrSup_1 </name></label>
+		<label><index>57</index><name>17Networks_RH_SomMotA_1 </name></label>
+		<label><index>58</index><name>17Networks_RH_SomMotA_2 </name></label>
+		<label><index>59</index><name>17Networks_RH_SomMotA_3 </name></label>
+		<label><index>60</index><name>17Networks_RH_SomMotA_4 </name></label>
+		<label><index>61</index><name>17Networks_RH_SomMotB_Aud_1 </name></label>
+		<label><index>62</index><name>17Networks_RH_SomMotB_S2_1 </name></label>
+		<label><index>63</index><name>17Networks_RH_SomMotB_S2_2 </name></label>
+		<label><index>64</index><name>17Networks_RH_SomMotB_Cent_1 </name></label>
+		<label><index>65</index><name>17Networks_RH_DorsAttnA_TempOcc_1 </name></label>
+		<label><index>66</index><name>17Networks_RH_DorsAttnA_ParOcc_1 </name></label>
+		<label><index>67</index><name>17Networks_RH_DorsAttnA_SPL_1 </name></label>
+		<label><index>68</index><name>17Networks_RH_DorsAttnB_PostC_1 </name></label>
+		<label><index>69</index><name>17Networks_RH_DorsAttnB_PostC_2 </name></label>
+		<label><index>70</index><name>17Networks_RH_DorsAttnB_FEF_1 </name></label>
+		<label><index>71</index><name>17Networks_RH_SalVentAttnA_ParOper_1 </name></label>
+		<label><index>72</index><name>17Networks_RH_SalVentAttnA_Ins_1 </name></label>
+		<label><index>73</index><name>17Networks_RH_SalVentAttnA_ParMed_1 </name></label>
+		<label><index>74</index><name>17Networks_RH_SalVentAttnA_FrMed_1 </name></label>
+		<label><index>75</index><name>17Networks_RH_SalVentAttnB_IPL_1 </name></label>
+		<label><index>76</index><name>17Networks_RH_SalVentAttnB_PFCl_1 </name></label>
+		<label><index>77</index><name>17Networks_RH_SalVentAttnB_PFCmp_1 </name></label>
+		<label><index>78</index><name>17Networks_RH_LimbicB_OFC_1 </name></label>
+		<label><index>79</index><name>17Networks_RH_LimbicA_TempPole_1 </name></label>
+		<label><index>80</index><name>17Networks_RH_ContA_IPS_1 </name></label>
+		<label><index>81</index><name>17Networks_RH_ContA_PFCl_1 </name></label>
+		<label><index>82</index><name>17Networks_RH_ContA_PFCl_2 </name></label>
+		<label><index>83</index><name>17Networks_RH_ContB_Temp_1 </name></label>
+		<label><index>84</index><name>17Networks_RH_ContB_IPL_1 </name></label>
+		<label><index>85</index><name>17Networks_RH_ContB_PFCld_1 </name></label>
+		<label><index>86</index><name>17Networks_RH_ContB_PFClv_1 </name></label>
+		<label><index>87</index><name>17Networks_RH_ContC_Cingp_1 </name></label>
+		<label><index>88</index><name>17Networks_RH_ContC_pCun_1 </name></label>
+		<label><index>89</index><name>17Networks_RH_DefaultA_IPL_1 </name></label>
+		<label><index>90</index><name>17Networks_RH_DefaultA_PFCd_1 </name></label>
+		<label><index>91</index><name>17Networks_RH_DefaultA_pCunPCC_1 </name></label>
+		<label><index>92</index><name>17Networks_RH_DefaultA_PFCm_1 </name></label>
+		<label><index>93</index><name>17Networks_RH_DefaultB_PFCd_1 </name></label>
+		<label><index>94</index><name>17Networks_RH_DefaultB_PFCv_1 </name></label>
+		<label><index>95</index><name>17Networks_RH_DefaultB_PFCv_2 </name></label>
+		<label><index>96</index><name>17Networks_RH_DefaultC_Rsp_1 </name></label>
+		<label><index>97</index><name>17Networks_RH_DefaultC_PHC_1 </name></label>
+		<label><index>98</index><name>17Networks_RH_TempPar_1 </name></label>
+		<label><index>99</index><name>17Networks_RH_TempPar_2 </name></label>
+		<label><index>100</index><name>17Networks_RH_TempPar_3 </name></label>
+	</data>
+</atlas>

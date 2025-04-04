@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<atlas version="2.0">
+	<header>
+		<name>MNI_Asym_thalamus</name>
+		<version>1.0</version>
+		<description>MNI_Asym_thalamus</description>
+		<url></url>
+		<licence></licence>
+		<coordinate_system>MNI</coordinate_system>
+		<type>Label</type>
+		<images>
+			<imagefile>MNI_Asym_thalamus.nii</imagefile>
+		</images>
+	</header>
+	<data>
+		<label><index>1</index><name>left pulvinar </name></label>
+		<label><index>2</index><name>left anterior </name></label>
+		<label><index>3</index><name>left medio-dorsal </name></label>
+		<label><index>4</index><name>left ventral latero-dorsal </name></label>
+		<label><index>5</index><name>left central lateral, lateral posteror, medial pulvinar </name></label>
+		<label><index>6</index><name>left ventral anterior </name></label>
+		<label><index>7</index><name>left ventral latero-ventral </name></label>
+		<label><index>8</index><name>right pulvinar </name></label>
+		<label><index>9</index><name>right anterior </name></label>
+		<label><index>10</index><name>right medio-dorsal </name></label>
+		<label><index>11</index><name>right ventral latero-dorsal </name></label>
+		<label><index>12</index><name>right central lateral, lateral posteror, medial pulvinar </name></label>
+		<label><index>13</index><name>right ventral anterior </name></label>
+		<label><index>14</index><name>right ventral latero-ventral </name></label>
+	</data>
+</atlas>

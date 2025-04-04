@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<atlas version="2.0">
+	<header>
+		<name>MNI_Asym_cobra</name>
+		<version>1.0</version>
+		<description>MNI_Asym_cobra</description>
+		<url></url>
+		<licence></licence>
+		<coordinate_system>MNI</coordinate_system>
+		<type>Label</type>
+		<images>
+			<imagefile>MNI_Asym_cobra.nii</imagefile>
+		</images>
+	</header>
+	<data>
+		<label><index>1</index><name>Left Striatum </name></label>
+		<label><index>2</index><name>Left Globus Pallidus </name></label>
+		<label><index>3</index><name>Left Thalamus  </name></label>
+		<label><index>11</index><name>Left Anterior Cerebellar Lobule I-II </name></label>
+		<label><index>12</index><name>Left Anterior Cerebellar Lobule III </name></label>
+		<label><index>13</index><name>Left Anterior Cerebellar Lobule IV </name></label>
+		<label><index>14</index><name>Left Anterior Cerebellar Lobule V </name></label>
+		<label><index>15</index><name>Left Superior Posterior Cerebellar Lobule VI </name></label>
+		<label><index>16</index><name>Left Superior Posterior Cerebellar Lobule Crus I </name></label>
+		<label><index>17</index><name>Left Superior Posterior Cerebellar Lobule Crus II </name></label>
+		<label><index>18</index><name>Left Superior Posterior Cerebellar Lobule VIIB </name></label>
+		<label><index>19</index><name>Left Inferior Posterior Cerebellar Lobule VIIIA </name></label>
+		<label><index>20</index><name>Left Inferior Posterior Cerebellar Lobule VIIIB </name></label>
+		<label><index>21</index><name>Left Inferior Posterior Cerebellar Lobule IX </name></label>
+		<label><index>22</index><name>Left Inferior Posterior Cerebellar Lobule X </name></label>
+		<label><index>23</index><name>Left Cerebellar White Matter </name></label>
+		<label><index>26</index><name>Left Amygdala </name></label>
+		<label><index>31</index><name>Left Hippocampus CA1 </name></label>
+		<label><index>32</index><name>Left Subiculum </name></label>
+		<label><index>33</index><name>Left Fornix </name></label>
+		<label><index>34</index><name>Left CA4/Dentate Gyrus </name></label>
+		<label><index>35</index><name>Left CA2/CA3 </name></label>
+		<label><index>36</index><name>Left Stratum Radiatum/Lacunosum/Moleculare </name></label>
+		<label><index>37</index><name>Left Fimbria </name></label>
+		<label><index>38</index><name>Left Mammillary body </name></label>
+		<label><index>39</index><name>Left Alveus </name></label>
+		<label><index>101</index><name>Right Striatum </name></label>
+		<label><index>102</index><name>Right Globus Pallidus </name></label>
+		<label><index>103</index><name>Right Thalamus  </name></label>
+		<label><index>111</index><name>Right Anterior Cerebellar Lobule I-II </name></label>
+		<label><index>112</index><name>Right Anterior Cerebellar Lobule III </name></label>
+		<label><index>113</index><name>Right Anterior Cerebellar Lobule IV </name></label>
+		<label><index>114</index><name>Right Anterior Cerebellar Lobule V </name></label>
+		<label><index>115</index><name>Right Superior Posterior Cerebellar Lobule VI </name></label>
+		<label><index>116</index><name>Right Superior Posterior Cerebellar Lobule Crus I </name></label>
+		<label><index>117</index><name>Right Superior Posterior Cerebellar Lobule Crus II </name></label>
+		<label><index>118</index><name>Right Superior Posterior Cerebellar Lobule VIIB </name></label>
+		<label><index>119</index><name>Right Inferior Posterior Cerebellar Lobule VIIIA </name></label>
+		<label><index>120</index><name>Right Inferior Posterior Cerebellar Lobule VIIIB </name></label>
+		<label><index>121</index><name>Right Inferior Posterior Cerebellar Lobule IX </name></label>
+		<label><index>122</index><name>Right Inferior Posterior Cerebellar Lobule X </name></label>
+		<label><index>123</index><name>Right Cerebellar White Matter </name></label>
+		<label><index>126</index><name>Right Amygdala </name></label>
+		<label><index>131</index><name>Right Hippocampus CA1 </name></label>
+		<label><index>132</index><name>Right Subiculum </name></label>
+		<label><index>133</index><name>Right Fornix </name></label>
+		<label><index>134</index><name>Right CA4/Dentate Gyrus </name></label>
+		<label><index>135</index><name>Right CA2/CA3 </name></label>
+		<label><index>136</index><name>Right Stratum Radiatum/Lacunosum/Moleculare </name></label>
+		<label><index>137</index><name>Right Fimbria </name></label>
+		<label><index>138</index><name>Right Mammillary body </name></label>
+		<label><index>139</index><name>Right Alveus </name></label>
+	</data>
+</atlas>
